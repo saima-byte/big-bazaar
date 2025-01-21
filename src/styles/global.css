@@ -1,0 +1,26 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --primary: #10B981;
+  --primary-hover: #059669;
+  --secondary: #1F2937;
+  --text-base: #4B5563;
+  --text-heading: #1F2937;
+  --background: #FFFFFF;
+  --border: #E5E7EB;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-base);
+  background: var(--background);
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-heading);
+  font-weight: 600;
+}
+
