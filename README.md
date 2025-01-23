@@ -5,17 +5,13 @@
     <li><strong>Search Functionality</strong>: Quickly find products with an intuitive search bar.</li>
     <li><strong>Shopping Cart</strong>: Add, update, or remove items from the cart before checkout.</li>
     <li><strong>Checkout and Payment</strong>: Streamlined checkout process with multiple payment options.</li>
-    <li><strong>Order History</strong>: View past orders for easy reordering.</li>
-    <li><strong>Admin Panel</strong>: Manage products, categories, and inventory.</li>
+    
 </ul>
 
 <h2>Technologies Used</h2>
 <ul>
     <li><strong>Frontend</strong>: [React.js/Flutter/Other Frontend Framework]</li>
     <li><strong>Backend</strong>: [Node.js/Django/Flask/Other Backend Framework]</li>
-    <li><strong>Database</strong>: [MySQL/PostgreSQL/MongoDB]</li>
-    <li><strong>Authentication</strong>: [JWT/Firebase Authentication]</li>
-    <li><strong>Payment Gateway</strong>: [Stripe/PayPal/Other]</li>
 </ul>
 
 <h2>Installation</h2>
